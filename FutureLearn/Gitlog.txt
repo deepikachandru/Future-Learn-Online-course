@@ -1,0 +1,107 @@
+commit ffa1b4989aa7e20e7a3a08a240bac212a4c0de3e
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 16 22:40:09 2023 +0000
+
+    ***End of Round 2- CRISP DM Cycle***
+
+commit 58b3439ec27994724233af5538b60933f56f1310
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 16 22:36:44 2023 +0000
+
+    Deployment and alternatives proposed
+
+commit 1dfcbce9aea5fd36c510d0cce7eca55956c81d79
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 16 22:35:18 2023 +0000
+
+    Evaluation of results reviewed
+
+commit 28f0afd3f7c2567da5f7118ae210ca6d2ee19438
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 16 21:39:05 2023 +0000
+
+    Modelling reviewed
+
+commit af40654f274e362c7b439510f7cf96c5a50cc163
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 16 20:20:07 2023 +0000
+
+    Data preparation reviewed to include Archetypes
+
+commit 8f157a01ba9066921aabbfb87c4c095d878e172f
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 22:56:59 2023 +0000
+
+    Data Understanding reviewed
+
+commit 4b6aef3690740628193a3ed09f7eb385a0eec827
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 22:56:04 2023 +0000
+
+    Business requirements reviewed to include archetypes
+
+commit 371e0a27cb91b6a62c805d8d4a9693a1e4a7cc9b
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 22:51:55 2023 +0000
+
+    Round 2 of the CRISP DM Cycle
+
+commit 068604c6bfca57a24b10b14669576510fb76dee0
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 21:52:39 2023 +0000
+
+    ***End of Round 1- CRISP DM Cycle***
+
+commit eb8b56cf02beaaca92b0b802873dfe966c7ad3c1
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 21:50:10 2023 +0000
+
+    Evaluate results and deployment
+
+commit 1f02b8bbd2b78e5185558c1748b1f239d446b212
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 21:48:43 2023 +0000
+
+    Model data and perform exploratory data analysis
+
+commit d7c438c54598b54ae3005e895b5a296a376c4cf2
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 15 18:58:57 2023 +0000
+
+    Data Prepared and Transformed
+
+commit 8b70d2ecbb8c139fa6973f26fdcbbe423deea615
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Fri Nov 10 15:58:08 2023 +0000
+
+    Data Understanding noted
+
+commit 284f33e725a63230a18218ad4eeca9c8c2fd30ff
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 9 21:59:14 2023 +0000
+
+    Business requirements noted
+
+commit 711c8ef8c496b04c99ca6b94f20b07ec3a913726
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Thu Nov 9 21:53:42 2023 +0000
+
+    Round 1- CRISP DM Cycle
+
+commit 10e0eacc54802dcc7b71350da8d7358d3179a86a
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 8 20:15:54 2023 +0000
+
+    Add data files
+
+commit 942927f58dad5d6718797b30cdc6dbf2931fc06f
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 8 20:13:07 2023 +0000
+
+    Set up RMarkdown
+
+commit e88bfc1ba8535484f3ecb847dd3782ed9de73e73
+Author: Deepika <c3036864@newcastle.ac.uk>
+Date:   Wed Nov 8 20:07:56 2023 +0000
+
+    Set up ProjectTemplate
